@@ -103,14 +103,6 @@ Examples of such types:
 If you introduce a **breaking change** the conventional commit type MUST end with an exclamation
 mark (e.g. `feat!: Remove the argument from ClassA`).
 
-Examples of PR titles:
-
-- feat: Added new `freezer` model
-- fix: Avoid execute something in `freezer`
-- docs: Add a example
-- docs: Improve the README
-- test: Add test for `freezer.dart`
-- refactor: Optimize the structure of `freezer`
 
 [github issue]: https://github.com/myConsciousness/freezer/issues/new
 [github issues]: https://github.com/myConsciousness/freezer/issues/new
