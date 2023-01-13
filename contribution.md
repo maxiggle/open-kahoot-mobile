@@ -70,7 +70,7 @@ and it will be automatically reflected in the PR.
   [file a bug or feature report][github issues], so that we can discuss what direction to follow.
 - [Fork the project][fork guide] on GitHub.
 - Clone the forked repository to your local development machine
-  (e.g. `git clone git@github.com:<YOUR_GITHUB_USER>/freezer.git`).
+  (e.g. `git clone git@github.com:<YOUR_GITHUB_USER>/quizard-mobile.git`).
 
 ### 1.3.1. Performing changes
 
