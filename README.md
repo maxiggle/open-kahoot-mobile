@@ -1,1 +1,0 @@
-# open-kahoot-mobile
